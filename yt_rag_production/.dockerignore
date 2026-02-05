@@ -1,0 +1,6 @@
+__pycache__/
+.env
+vector_store/
+rag-based-app/
+*.m4a
+*.mp3
